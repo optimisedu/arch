@@ -1,4 +1,4 @@
-# arch
+# Arch Linux Config for WSL
 
 ## Contents
 
